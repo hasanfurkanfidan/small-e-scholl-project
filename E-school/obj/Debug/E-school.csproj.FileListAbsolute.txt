@@ -1,0 +1,15 @@
+C:\Users\Furkan\Desktop\E-school\E-school\bin\Debug\E-school.exe.config
+C:\Users\Furkan\Desktop\E-school\E-school\bin\Debug\E-school.exe
+C:\Users\Furkan\Desktop\E-school\E-school\bin\Debug\E-school.pdb
+C:\Users\Furkan\Desktop\E-school\E-school\obj\Debug\E_school.Form1.resources
+C:\Users\Furkan\Desktop\E-school\E-school\obj\Debug\E_school.Properties.Resources.resources
+C:\Users\Furkan\Desktop\E-school\E-school\obj\Debug\E-school.csproj.GenerateResource.cache
+C:\Users\Furkan\Desktop\E-school\E-school\obj\Debug\E-school.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\E-school\E-school\obj\Debug\E-school.exe
+C:\Users\Furkan\Desktop\E-school\E-school\obj\Debug\E-school.pdb
+C:\Users\Furkan\Desktop\E-school\E-school\obj\Debug\E_school.frmogrencigiris.resources
+C:\Users\Furkan\Desktop\E-school\E-school\obj\Debug\E_school.frmuyeol.resources
+C:\Users\Furkan\Desktop\E-school\E-school\obj\Debug\E_school.frmogrencidetay.resources
+C:\Users\Furkan\Desktop\E-school\E-school\obj\Debug\E-school.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\E-school\E-school\obj\Debug\E_school.Frmogretmengiris.resources
+C:\Users\Furkan\Desktop\E-school\E-school\obj\Debug\E_school.Frmogretmendetay.resources
